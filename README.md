@@ -13,7 +13,7 @@ Atualmente no 9º ano do Ensino Fundamental II, me preparando para a jornada na 
 
 ---
 
-## 🛠️ No que estou focado agora (2026)
+## 🛠️ O que estou focado agora (2026)
 - 🖥️ Aprendendo a usar o GitHub e [LinkedIn](https://www.linkedin.com/in/wagner-g-9b84763b1/)
 - 📚 Preparação para o Ensino Médio e foco total em **Matemática**
 - ⚓ Finalizando projetos no **Roblox Studio** ([Sailing the Sea](https://www.roblox.com/pt/games/98305661927596/Sailing-The-Sea-DESENVOLVIMENTO))
